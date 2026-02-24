@@ -10,7 +10,7 @@ import {
   FaSchool,
 } from "react-icons/fa";
 
-const themeColor = "#009150";
+const themeColor = "#809150";
 
 const AdminLayout = () => {
   const { logout } = useAuth();
